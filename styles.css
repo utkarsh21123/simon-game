@@ -3,6 +3,11 @@ body {
   background-color: #011F3F;
 }
 
+a:link {
+  text-decoration: none;
+  color: #FEF2BF;
+}
+
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
